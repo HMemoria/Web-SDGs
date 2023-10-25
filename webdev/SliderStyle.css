@@ -1,0 +1,19 @@
+.body{
+    padding: 0;
+    margin: 0
+    font-family: 
+}
+.slide1{
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.slideim{
+    width: 120%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    
+}
